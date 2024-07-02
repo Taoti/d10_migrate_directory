@@ -1,0 +1,7 @@
+name: 'Migrate Directory'
+core_version_requirement: ^8 || ^9 || ^10
+type: module
+description: 'Migrate Directory'
+package: 'Migrate'
+dependencies:
+  - drupal:migrate
